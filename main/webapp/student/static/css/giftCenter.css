@@ -1,0 +1,102 @@
+.prizeTitle {
+
+    font-size: large;
+    margin-top: 4px;
+
+}
+
+.bottom-separator {
+    border-bottom: 1px #D6DEE6 solid;
+    margin-top: 45px;
+}
+
+.giftRow {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    border-bottom: 1px #D6DEE6 solid;
+}
+
+.giftImg {
+    margin-top: -25px;
+    height: 80px;
+}
+
+.giftRedeem {
+    text-align: center;
+}
+
+.yellow-text {
+    color: #E6C44F;
+}
+
+.giftCoin {
+    color: rgba(128, 128, 128, 0.8);
+    font-size: 14px;
+}
+
+.giftAdv {
+    color: rgb(139, 153, 176);
+    font-size: 8px;    
+}
+
+.redeemIMG {
+    height: 165px;
+    width: 130px;
+    margin-top: 18px;
+}
+
+.redeemBlock {
+    padding-left: 15px;
+    padding-bottom: 5px;
+    border-bottom: 1px #D6DEE6 solid;
+    min-height: 100px;
+}
+
+.placeHolder {
+    height: 100px;
+}
+
+.giftPlaceHolder {
+    height: 105px;
+}
+
+.redeemBtn {
+    width: 80px;
+}
+
+.aBtn {
+    text-align: center;
+    height: 26px;
+    width: 25px;
+    border: 1px cadetblue solid;
+    border-radius: 7px;
+    color: cadetblue;
+    background-color: #FFFFFF;
+    font-size: 18px;
+}
+.aBtn:hover
+{
+    background-color: #F0F0F0;
+    color:cadetblue ;
+/*    border: 1px aquamarine solid;*/
+}
+
+.aBtn:focus
+{
+    color:cadetblue ;
+/*    border: 1px aquamarine solid;*/
+    background-color: #F0F0F0;
+
+}
+
+.redeemInput {
+    
+    width: 50px;
+    text-align: center;
+}
+
+
+.bottom-separator1 {
+    border-bottom: 1px #D6DEE6 solid;
+    margin-top: 10px;
+}

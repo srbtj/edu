@@ -1,0 +1,55 @@
+<div id="statistics-page" class="container">
+    <div class="row">
+	<div class="page-body page-body-top statistics-body readingCenter-right-body col-md-8 col-md-offset-2">
+         <!-- Nav tabs -->
+        <div class="row buttom-separator">
+        <div class="col-md-10">
+            <div class="row">
+            <ul id="myTab" class="nav nav-tabs" role="tablist">
+                <li role="presentation"><a href="#statisticsSummary" aria-controls="statisticsSummary" role="tab" data-toggle="tab">统计分析</a></li>
+                <li role="presentation" class="active"><a href="." aria-controls="statisticsRanking" role="tab" data-toggle="tab">班级阅读达人</a></li>
+            </ul>
+            </div>
+        </div>
+        </div>
+        
+        <!-- Place holder -->
+        <div class="title"></div>
+
+        <!-- Tab panes -->
+        <div class="tab-content row buttom-separator">
+            <div class="col-md-12">
+            <div role="tabpanel" class="tab-pane fade in active col-md-12" id="receive">
+              <table class="table text-center">
+                <thead>
+                  <tr>
+                    <th>名次</th>
+                    <th>姓名</th>
+                    <th>积分</th>
+                    <th>财富</th>
+                    <th>等级</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr ng-repeat="hotreader in hotreaderLoadable.entities.content">
+                    <td>{{$index + 1}}</td>
+                    <td><a href="#/personalShow/{{hotreader.id}}">{{hotreader.username}}</a></td>
+                    <td>{{hotreader.statistic.point}}</td>
+                    <td>{{hotreader.statistic.coin}}</td>
+                    <td>{{hotreader.statistic.level}}</td>
+                  </tr>
+                  <tr>
+                </tbody>
+              </table>
+ 
+            </div>
+            </div>
+        </div>
+        <div class="row bottom" ng-click="hotreaderLoadable.get()">{{ hotreaderLoadable.loadingState }}</div>
+
+	</div>
+
+    </div>
+</div>
+<script>
+</script>

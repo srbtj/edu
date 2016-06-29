@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html data-ng-app="routeApp">
+<head>
+	<title>CMS</title>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<!-- Bootstrap core CSS -->
+	<link href="http://cdn.bootcss.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+	
+	<link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">-->
+    
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <link href="css/color.css" rel="stylesheet" type="text/css" />
+    <link href="css/custom-ui.css" rel="stylesheet" type="text/css" />
+    <link href="css/fonts.css" rel="stylesheet" type="text/css" />
+    <link href="css/bookshelf.css" rel="stylesheet" type="text/css" />
+    <link href="css/common.css" rel="stylesheet" type="text/css" />
+    <link href="css/dropzone.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+	<nav class="navbar navbar-inverse navbar-fixed-top">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="#">CMS</a>
+			</div>
+		</div>
+	</nav>
+
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-3 col-md-2 sidebar" ng-controller="indexCtrl">
+				<ul class="nav nav-sidebar">
+					<li ng-class="{active:isActive(routeMap.index)}"><a href="#/">主页</a></li>
+				</ul>
+				<ul class="nav nav-sidebar">
+					<li ng-show="showMap.book" ng-class="{active:isActive(routeMap.book)}"><a href="#book">书籍</a></li>
+					<li ng-show="showMap.objectivequestion" ng-class="{active:isActive(routeMap.objectivequestion)}"><a href="#objectivequestion">词汇和验证测试试题及选项</a></li>
+					<li ng-show="showMap.subjectivequestion" ng-class="{active:isActive(routeMap.subjectivequestion)}"><a href="#subjectivequestion">思维测试试题</a></li>
+					<li ng-show="showMap.region" ng-class="{active:isActive(routeMap.region)}"><a href="#region">区域</a></li>
+					<li ng-show="showMap.edugroup" ng-class="{active:isActive(routeMap.edugroup)}"><a href="#edugroup">教育集团</a></li>
+					<li ng-show="showMap.school" ng-class="{active:isActive(routeMap.school)}"><a href="#school">学校</a></li>
+					<li ng-show="showMap.schoolDistrict" ng-class="{active:isActive(routeMap.schoolDistrict)}"><a href="#schoolDistrict">学区</a></li>
+					<li ng-show="showMap.clazz" ng-class="{active:isActive(routeMap.clazz)}"><a href="#clazz">班级</a></li>
+					<li ng-show="showMap.teacher" ng-class="{active:isActive(routeMap.teacher)}"><a href="#teacher">老师</a></li>
+					<li ng-show="showMap.student" ng-class="{active:isActive(routeMap.student)}"><a href="#student">学生</a></li>
+					<li ng-show="showMap.gift" ng-class="{active:isActive(routeMap.gift)}"><a href="#gift">礼品</a></li>
+					<li ng-show="showMap.action" ng-class="{active:isActive(routeMap.action)}"><a href="#action">活动</a></li>
+					<li ng-show="showMap.semester" ng-class="{active:isActive(routeMap.semester)}"><a href="#semester">学期</a></li>
+					<!--<li><a href="#admin">Admin</a></li>-->
+					<li ng-show="showMap.sysAdmin" ng-class="{active:isActive(routeMap.sysAdmin)}"><a href="#sysAdmin">系统管理员</a></li>
+					<li ng-show="showMap.schoolAdmin" ng-class="{active:isActive(routeMap.schoolAdmin)}"><a href="#schoolAdmin">学校管理员</a></li>
+					<li ng-show="showMap.schoolSuperAdmin" ng-class="{active:isActive(routeMap.schoolSuperAdmin)}"><a href="#schoolSuperAdmin">学校超级管理员</a></li>
+				</ul>
+			</div>
+			<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2" data-ui-view style="margin-top:20px">
+			</div>
+		</div>
+	</div>
+
+	<div id="alert-modal" class="modal fade bs-example-modal-sm" role="dialog" aria-labelledby="gridSystemModalLabel" aria-hidden="true">
+		<div class="modal-dialog modal-sm" style="width:400px;">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h4 class="modal-title" id="gridSystemModalLabel">{{modal.title}}</h4>
+				</div>
+				<div class="modal-body">
+					<div class="container-fluid">
+						<div class="row">
+							{{modal.content}}
+						</div>
+					</div>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" ng-click="modal.click()" data-dismiss="modal">确定</button>
+				</div>
+			</div><!-- /.modal-content -->
+		</div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+
+	<div id="confirm-modal" class="modal fade" role="dialog" aria-labelledby="gridSystemModalLabel" aria-hidden="true">
+		<div class="modal-dialog modal-sm" style="width:400px;">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h4 class="modal-title" id="gridSystemModalLabel">{{confirm_modal.title}}</h4>
+				</div>
+				<div class="modal-body">
+					<div class="container-fluid">
+						<div class="row">
+							{{confirm_modal.content}}
+						</div>
+					</div>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal" ng-click="confirm_modal.click()">确定</button>
+					<button type="button" class="btn btn-default" data-dismiss="modal">取消</button>
+				</div>
+			</div><!-- /.modal-content -->
+		</div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="http://cdn.bootcss.com/jquery/1.11.2/jquery.min.js"></script>
+    <script src="http://cdn.bootcss.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+    <!--angularjs-->
+    <script src="http://cdn.bootcss.com/angular.js/1.3.14/angular.min.js"></script>
+	<script src="http://cdn.bootcss.com/angular.js/1.3.14/angular-resource.min.js"></script>
+	<script src="http://cdn.bootcss.com/angular.js/1.3.14/angular-sanitize.js"></script>
+	<script src="//cdn.bootcss.com/angular-ui-router/0.2.13/angular-ui-router.min.js"></script>
+	<script src="//cdn.bootcss.com/angular-strap/2.1.2/angular-strap.min.js"></script>
+  <script src="//cdn.bootcss.com/angular-strap/2.1.2/angular-strap.tpl.min.js"></script>
+
+    <script src="js/config.js"></script>
+	<script src="js/controller/mainCtrl.js"></script>
+	
+	<!--lib-->
+    <script src="js/lib/bs-dropdown.js"></script>
+    <script src="js/lib/dropzone.js"></script>
+
+
+    
+    <script src="js/controller/indexCtrl.js"></script>
+    <script src="js/controller/bookCtrl.js"></script>
+    <script src="js/controller/userCtrl.js"></script>
+    <script src="js/controller/objectiveQuestionCtrl.js"></script>
+    <script src="js/controller/subjectiveQuestionCtrl.js"></script>
+    <script src="js/controller/studentCtrl.js"></script>
+    <script src="js/controller/schoolAdminCtrl.js"></script>
+    <script src="js/controller/schoolSuperAdminCtrl.js"></script>
+    <script src="js/controller/sysAdminCtrl.js"></script>
+    <script src="js/controller/sysAdminCtrl.js"></script>
+    <script src="js/controller/giftCtrl.js"></script>
+    <script src="js/controller/classCtrl.js"></script>
+    <script src="js/controller/regionCtrl.js"></script>
+    <script src="js/controller/eduGroupCtrl.js"></script>
+    <script src="js/controller/schoolCtrl.js"></script>
+    <script src="js/controller/teacherCtrl.js"></script>
+    <script src="js/controller/actionCtrl.js"></script>
+    <script src="js/controller/schoolDistrict.js"></script>
+    <script src="js/controller/semesterCtrl.js"></script>
+
+    <script src="js/services/bookService.js"></script>
+    <script src="js/services/userService.js"></script>
+    <script src="js/services/pageableService.js"></script>
+    <script src="js/services/studentService.js"></script>
+    <script src="js/services/adminService.js"></script>
+    <script src="js/services/provinceService.js"></script>
+    <script src="js/services/giftServices.js"></script>
+    <script src="js/services/dropzoneService.js"></script>
+    <script src="js/services/questionService.js"></script>
+    <script src="js/services/classService.js"></script>
+    <script src="js/services/eduGroupService.js"></script>
+    <script src="js/services/campusService.js"></script>
+    <script src="js/services/teacherService.js"></script>
+    <script src="js/services/actionService.js"></script>
+    <script src="js/services/semesterService.js"></script>
+    
+    <script src="js/directives/selectBox.js"></script>
+
+    <script src="js/app.js"></script>    
+    
+	<script src="../student/static/js/lib/tokenInjector.js"></script>
+
+    <script type="text/javascript">
+    	function GetURL(){
+        sessionStorage.setItem("filepath", $("form[enctype='multipart/form-data'] input[type='file']").val());
+    }
+
+    //$("form[enctype='multipart/form-data'] input[type='submit']").die().live('click', function(url){
+    	
+    function PostData(url,id){
+    	var xhr = new XMLHttpRequest();
+		var fd = new FormData();
+		// 关联表单数据,可以是自定义参数
+		var fileName = "myfile";
+							
+		var inputFileEL = "#myfile";
+		if(id){inputFileEL=id;}
+		fd.append(fileName,
+		$(inputFileEL)[0].files[0]);
+
+
+		xhr.open("POST", url);
+		//xhr.setRequestHeader("Content-Type", "multipart/form-data;boundary=AaB03x");
+		xhr.setRequestHeader("Authorization", "bearer " + sessionStorage.access_token);
+		xhr.onreadystatechange=function(){
+			 if(xhr.readyState==4){
+			 	if(xhr.status==200){
+			 		alert("已成功");
+			 	}
+			 }
+		}
+		xhr.send(fd);
+    	
+        // $.ajax({
+            // type: 'post',
+            // url: url,
+            // data: "myfile"+"="+ sessionStorage.getItem("filepath"),
+            // beforeSend: function(request) {
+                // request.setRequestHeader("Content-Type", "multipart/form-data;boundary=AaB03x");
+                // request.setRequestHeader("Authorization", "bearer " + sessionStorage.access_token);
+            // },
+            // success: function(dataLogin){
+                // alert('success');
+            // }
+        // });
+    }
+    </script>
+</body>
+</html>

@@ -1,0 +1,121 @@
+ <div class="row readingCenter-right">
+	<div class="col-md-8 col-md-offset-2">
+		<div class="row page-body page-body-top  readingCenter-right-body container-fluid">
+
+            <!--head-->
+            <div class="col-md-12 addBookNavigation">
+                <p class="cramb">
+                <a href="#/giftCenter">已兑换商品</a>
+                   > &nbsp; 商城
+                </p>
+            </div>
+
+            <div class="row bottom-separator"></div>
+<!--     Left part   -->
+        <div class="leftpart">
+            <div class="col-md-4 clear-padding" ng-repeat="gift in gifts | filter : giftTypeFilter ">
+                <div class="row" align="center">
+									<a href=""><img ng-src="../static/img/giftCenter/bookBag_lg.png" class="redeemIMG img-responsive"></a>
+
+										<div class="giftRedeem"><p><span class="yellow-text">{{gift.coin}}</span><span class="giftCoin">金贝</span></br>
+											{{gift.name}}</br>
+											<span class="giftAdv">2015年新款书包</span></p>
+                    <a class="btn btn-sm btn-green modal-title" id="myModalLabel" ng-click="getGiftId(gift)"  data-toggle="modal" data-target="#redeemGift" type="button">我要兑换</a>&nbsp;&nbsp;
+                    </div>
+                </div>
+						</div>
+            <div class="row bottom bottom-separator" ></div>
+            <div class="row block bottom" ng-click="giftsLoadingMore()" >{{loading}}</div>
+        </div>
+<!-- Modal-->
+<div class="modal fade" id="redeemGift" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+    <div class="modal-content lackBookModel container-fluid">
+        <div class="modal-body">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <!-- Input form -->
+            <div >
+                <h4 class="modal-title" >数量确认</h4>
+                <div align="center" style="  margin-top: 30px;">
+                    <button class="btn aBtn" type="button" ng-click="minusQuantity()" style="padding: 0;outline: none;">-</button>
+                    <input type="text" ng-model="quantity"class="redeemInput" placeholder="1">
+                    <button class="btn aBtn" type="button" ng-click="addQuantity()" style="padding: 0;outline: none;">+</button>
+                </div>
+            </div>
+        </div>
+        <div class="row" style="margin-bottom: 20px; margin-top: 5px;" align="center">
+            <div class="col-md-offset-3 col-md-3">
+                <button class="btn btn-fill-green redeemBtn" ng-click="exchangeGifts(gift)"ng-disabled="!isValid()" type="button">确认</button>
+            </div>
+
+            <div class="col-md-3">
+                <button class="btn btn-green redeemBtn"  ng-click="" type="button" data-dismiss="modal" aria-label="Close">取消</button>
+            </div>
+        </div>
+
+
+    </div>
+    </div>
+</div>
+
+
+
+<!--Right part   -->
+        <div class="rightpart">
+            <div class="row redeemBlock">
+                   <div class="col-md-off-1 col-md-10">
+                        <div class="row">
+                            <h5>是否可兑换</h5>
+                        </div>
+                         <div class="row radio">
+                          <label>
+                            <input type="radio" ng-model="redeemState"ng-click="getAllGifts()" name="testOptions" id="testOptions1" value="0" checked>
+                            所有商品
+                          </label>
+                        </div>
+                        <div class="row radio">
+                          <label>
+                            <input type="radio" ng-model="redeemState" ng-click="getAllGifts()" name="testOptions" id="testOptions2" value="1">
+                            可兑换
+                          </label>
+                        </div>
+                        <div class="row radio">
+                          <label>
+                            <input type="radio" ng-model="redeemState" ng-click="getAllGifts()" name="testOptions" id="testOptions3" value="2">
+                            不可兑换
+                          </label>
+                        </div>
+
+
+                </div><!---->
+            </div>
+
+            <div class="row redeemBlock">
+                <div class="col-md-off-1 col-md-10">
+                        <div class="row">
+                            <h5>商品类型</h5>
+                        </div>
+                        <div class="row">
+													<bs-dropdown data-menu-type="button"
+															select-val="selected_status = selectedVal"
+															preselected-item="selected_status"
+															data-dropdown-data="statuses"
+															callback="alert">
+													</bs-dropdown>
+                        </div>
+
+                </div>
+            </div>
+
+            <div class="row giftPlaceHolder">
+                <p>&nbsp;</p>
+            </div>
+
+
+
+        </div>
+
+      </div>
+
+	</div>
+</div>

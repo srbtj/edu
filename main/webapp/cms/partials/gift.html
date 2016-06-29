@@ -1,0 +1,198 @@
+<div>
+    <h1>礼品</h1>
+</div>
+
+<div>
+	<chooseschool></chooseschool>
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>序列号</th>
+                <th>分类名名称</th>
+                <th>礼品名称</th>
+                <th>礼品描述</th>
+                <th>对外所需财富值</th>
+                <th>价格</th>
+                <th>发布时间</th>
+                <th>
+                    <button id="add" class="btn btn-primary" data-toggle="modal" data-target="#addModal" disabled="disabled">添加</button>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="placeHolder in searchPageable.entities.content">
+                <td>{{placeHolder.id}}</td>
+                <td>{{placeHolder.giftType}}</td>
+                <td>{{placeHolder.name}}</td>
+                <td>{{placeHolder.description}}</td>
+                <td>{{placeHolder.coin}}</td>
+                <td>{{placeHolder.price}}</td>
+                <td>{{placeHolder.creationTime}}</td>
+                <td>
+                    <button class="btn btn-primary" data-toggle="modal" data-target="#editModal" ng-click="updateSys(placeHolder)">修改</button>
+                    <button class="btn btn-primary" ng-click="deleteSys(placeHolder)">删除</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <!-- Place holder row copied from searchs -->
+    <!--<div class="row" ng-repeat="placeHolder in searchPageable.placeHolders.content">
+        <div class="col-md-10 searchHolder"> 
+            <p>&nbsp;{{ placeHolder.title }}</p>
+        </div>
+    </div>-->
+
+    <!-- Footer and page numbers  -->
+    <div class="container-fluid">
+        <div class="row paragraph">
+            <div class="col-xs-1"></div>
+            <div class="col-xs-7">
+            <!-- Custom page number goes here -->
+                <div class="row custom-page-number-group">
+                    <div class="col-xs-2">
+                        <div class="row"><a ng-click="searchPageable.showPage(searchPageable.page - 1)"></a>
+                        </div>
+                    </div>
+                    <div class="col-xs-1 custom-page-number-container" ng-model="page" ng-repeat="pageNumber in searchPageable.pageNumbers.content">
+                        <a class="custom-page-number" ng-class="{'custom-page-number-current': pageNumber === searchPageable.page}"
+                    ng-click="searchPageable.showPage(pageNumber)">{{pageNumber}}</a>
+                    </div>
+                    <div class="col-xs-2">
+                        <div class="row">
+                            <a ng-click="searchPageable.showPage(searchPageable.page + 1)"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-3">            
+                <div class="custom-page-number-group">
+                                <a ng-click="searchPageable.showPage(searchPageable.showpage)">去第</a>
+                                <input type="number" class="custom-page-number-input" ng-model="searchPageable.showpage" min="1"/>
+                                <a ng-click="searchPageable.showPage(searchPageable.showpage)">页</a>
+                            </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="addModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+        <form role="form" name="addForm" novalidate>
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">添加</h4>
+            </div>
+            <div class="modal-body">
+            	<div id="avatar" class="col-md-12">
+                	<div class="dropzone img-circle border-shadow dz-clickable" id="image-uploader" ng-style="{'background-image':'url('+add.picture+')'}">
+                		<div class="dz-default dz-message"><span></span>
+                		</div>
+                	</div>
+            	</div>
+                <div class="form-horizontal">
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">礼品名称</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" ng-model="add.name" required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">礼品描述</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" ng-model="add.description" required>
+                        </div>
+                    </div>
+                    <!--<div class="form-group">
+                        <label class="col-sm-2 control-label">类型名称</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" ng-model="add.giftType" required>
+                        </div>
+                    </div>-->
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">所需财富</label>
+                        <div class="col-sm-10">
+                            <input type="number" class="form-control" ng-model="add.coin" min="1" required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">价格</label>
+                        <div class="col-sm-10">
+                            <input type="number" class="form-control" ng-model="add.price" min="1" required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">类型</label>
+                        <div class="col-md-5">
+                            <select class="form-control" ng-model="SelectedSD_add" ng-change="c_SD_add()">
+                                <option value="TYPE_1">TYPE_1</option>
+                                <option value="TYPE_2">TYPE_2</option>
+                                <option value="TYPE_3">TYPE_3</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" ng-click="AddSys()" ng-disabled="addForm.$invalid">Add</button>
+            </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="editModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+        <form role="form" name="myForm" novalidate>
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">修改</h4>
+            </div>
+            <div class="modal-body">
+                <div class="form-horizontal">
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">名称</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" placeholder="name" ng-model="edit.name">
+                        </div>
+                    </div>
+                     <div class="form-group">
+                        <label class="col-sm-2 control-label">礼品描述</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" ng-model="edit.description" required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">所需财富</label>
+                        <div class="col-sm-10">
+                            <input type="number" class="form-control" ng-model="edit.coin" min="1" required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">价格</label>
+                        <div class="col-sm-10">
+                            <input type="number" class="form-control" ng-model="edit.price" min="1" required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">类型</label>
+                        <div class="col-md-5">
+                            <select class="form-control" ng-model="SelectedSD_edit" ng-change="c_SD_edit()">
+                                <option value="TYPE_1">TYPE_1</option>
+                                <option value="TYPE_2">TYPE_2</option>
+                                <option value="TYPE_3">TYPE_3</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" ng-click="EditSys()" ng-disabled="myForm.$invalid">Edit</button>
+                <span>{{message}}</span>
+            </div>
+        </form>
+        </div>
+    </div>
+</div>

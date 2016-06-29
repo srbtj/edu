@@ -1,0 +1,278 @@
+<div id="statistics-page" class="container">
+    <div class="row">
+	<div class="page-body page-body-top statistics-body readingCenter-right-body col-md-8 col-md-offset-2">
+         <!-- Nav tabs -->
+        <div class="row buttom-separator">
+            <div class="col-xs-4">
+                <div class="row">
+                    <ul id="myTab" class="nav nav-tabs" role="tablist">
+                        <li role="presentation" class="active"><a href="." aria-controls="statisticsSummary" role="tab" data-toggle="tab">统计分析</a></li>
+                        <li role="presentation"><a href="#statisticsRanking" aria-controls="statisticsRanking" role="tab" data-toggle="tab">班级阅读达人</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-xs-8">
+                <div class="row">
+                    <div class="col-xs-8">
+                            <div class="row">
+                                <button id="send-message" class="btn btn-fill-green" data-toggle="modal" data-target="#myModal" ng-click="" type="button">
+                                    生成阅读报告PDF
+                                </button>
+                            </div>
+                     </div>
+                    <div class="col-xs-4">
+                        <bs-dropdown data-menu-type="button" 
+                            select-val="semestersSelected_status = selectedVal"
+                            preselected-item="semestersSelected_status" 
+                            data-dropdown-data="semestersStatuses">
+                        </bs-dropdown>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Tab panes -->
+        <div class="tab-content">
+            
+        
+            <!-- Summary header -->    
+            <div class="col-md-12 paragraph">
+                <div class="row title">
+                    <div class="col-md-6 col-md-offset-3">
+                        <img ng-src="../static/img/statisticsSummary/title.png" class="img-responsive" src="../static/img/statisticsSummary/title.png">
+                    </div>
+                </div>
+                <div clas="row">
+                    <div class="text-center title"><h5>报告时间：{{ statistics.summaryHeader.startTime }}&nbsp;~&nbsp;{{ statistics.summaryHeader.endTime }}&nbsp;&nbsp;&nbsp;&nbsp;学校：{{ statistics.summaryHeader.campus }}&nbsp;&nbsp;&nbsp;&nbsp;班级：{{ statistics.summaryHeader.class }}&nbsp;&nbsp;&nbsp;&nbsp;姓名：{{ statistics.summaryHeader.username }}</h5></div>
+                </div>
+                <div clas="row">
+                    <div class="col-md-1"><div class="row">
+                        <div class="text-right"><p><small>说明：</small></p></div>
+                    </div></div>
+                    <div class="col-md-11"><div class="row">
+                        <div class="text-left"><p><small>1、本报告从学生的阅读参与情况、阅读认证情况以及阅读兴趣等方面对学生进行阅读情况的扫描。<br/>2、本报告只基于学生在阳光阅读互动系统平台中的参与数据进行相关分析，不在系统内记录的数据不体现在报告内。</small></p></div>
+                    </div></div>
+                </div>
+
+            </div>
+            
+            
+            <!-- Basic informations -->
+
+            <div class="col-md-12">
+                <div class="row summary-items theme-font gray">基本阅读情况</div>
+            </div>
+            
+            <div class="col-md-12 title">
+                <div clas="row">
+                    <div class="col-md-4 col-md-offset-1"><div class="row">
+                        <div class="row"><h5>阅读等级：{{ statistics.basicInformations.level }}级<h5></div>
+                        <div class="row"><h5>学期内阅读任务：{{ statistics.basicInformations.semesterReadNum }}本<h5></div>
+                        <div class="row"><h5>阅读积分：{{ statistics.basicInformations.point }}分<h5></div>
+                    </div></div>
+                    <div class="col-md-4"><div class="row">
+                        <div class="row"><h5>财富值：{{ statistics.basicInformations.coin }}金币<h5></div>
+                        <div class="row"><h5>学期内通过认证数量：{{ statistics.basicInformations.semesterVerifiedNum }}本<h5></div>
+                        <div class="row">
+                            <h5>平均认证正确率：{{ statistics.basicInformations.semesterVerifiedRate }}% 
+                                <div class="orange-light fr average-width">&nbsp;
+                                    <div class="orange fl" ng-style="{width: statistics.basicInformations.semesterVerifiedRate * 0.96 + '%'}">&nbsp;
+                                    </div>
+                                </div>
+                            </h5>
+                        </div> 
+   
+                    </div></div>
+                </div>
+            </div>
+                        
+            <!-- Reading quality -->
+
+            <div class="col-md-12">
+                <div class="row summary-items theme-font green">阅读质量分析</div>
+            </div>
+            
+            <div class="col-md-12 title">
+                <div clas="row">
+                    <div class="col-md-4 col-md-offset-1"><div class="row">
+                        <div class="row"><h5>一次通过验证的数量：{{ statistics.readingQuality.firstpassrate }}本<h5></div>
+                        <div class="row"><h5>图书验证平均得分：{{ statistics.readingQuality.average }}分<h5></div>
+                    </div></div>
+                    <div class="col-md-4"><div class="row">
+                        <div class="row"><h5>二次通过验证的数量：{{ statistics.readingQuality.secondpassrate }}本<h5></div>
+                    </div></div>
+                </div>
+            </div>            
+                        
+            <!-- semester reading -->
+
+            <div class="col-md-12">
+                <div class="row summary-items theme-font orange">学期阅读数量</div>
+            </div>
+            
+            <div class="col-md-12 title">
+                <div ng-if="statistics.semesterReadings.maxMonthlyVerifiedNum !== 0"><h5>您本学期一共阅读了<span class="orange-text">{{ statistics.semesterReadings.semesterReadNum }}</span>本书，{{ statistics.semesterReadings.maxMonthlyVerifiedNumMonth }}月读了<span class="orange-text">{{ statistics.semesterReadings.maxMonthlyVerifiedNum }}</span>本书，为本学期最多。</h5></div>
+                <div ng-if="statistics.semesterReadings.maxMonthlyVerifiedNum === 0"><h5>您本学期没有读过书。</h5></div>
+                <div><small>（年份/月）</small></div>
+                <div class="col-md-12">
+                    <div class="row" ng-repeat="VerifiedBook in statistics.semesterReadings.monthlyVerifiedNums track by $index">
+                        <div class="col-md-1"><h5 class="row text-right">{{ Math.floor( statistics.semesterReadings.year + (statistics.semesterReadings.startMonth - 1 + $index) / 12 ) }}.&nbsp;{{ (statistics.semesterReadings.startMonth - 1 + $index) % 12 + 1}}</h5></div>
+                        <div class="col-md-10"><h5>
+                            <div class="fr reading-count-width">&nbsp;
+                                <div class="orange fl" ng-style="{width: statistics.semesterReadings.maxMonthlyVerifiedNum === 0 ? 0 : VerifiedBook * 90 / statistics.semesterReadings.maxMonthlyVerifiedNum + '%'}">&nbsp;
+                                </div>
+                                <div class="fl">&nbsp;&nbsp;{{ VerifiedBook }}
+                                </div>
+                            </div>
+                        </h5></div>
+                    </div>
+                </div>
+            </div>
+                        
+            <!-- semester points -->
+
+            <div class="col-md-12">
+                <div class="row summary-items theme-font pink">学期获得积分</div>
+            </div>
+            
+            <div class="col-md-12 title">
+                <div ng-if="statistics.semesterPoints.totalPoint !== 0"><h5>本学期一共获得了<span class="pink-text">{{ statistics.semesterPoints.totalPoint }}</span>积分，{{ statistics.semesterPoints.maxMonthlyPointMonth }}月获得了<span class="pink-text">{{ statistics.semesterPoints.maxMonthlyPoint }}</span>积分，为本学期最多。</h5></div>                
+                <div ng-if="statistics.semesterPoints.totalPoint === 0"><h5>您本学期没有获得积分。</h5></div>
+            </div>
+            
+            <!-- axis column -->
+            <div class="col-md-1">
+                <div class="row">
+                    <div class="histogram">
+                    </div>
+                </div>
+                <div class="row">
+                    <h5 class="axis text-right" style="width:100%"><small>(年份/月)</small></h5>
+                </div>
+            </div>
+                        
+            <!-- histogram columns -->
+            <div class="col-md-11">
+                <div class="row">
+                    <div class="histogram buttom-separator" ng-style="{ width: statistics.semesterPoints.width + '%'}" ng-repeat="point in statistics.semesterPoints.monthlyPoints track by $index">
+                        <div class="data" ng-style="{height: 100 - ( statistics.semesterPoints.maxMonthlyPoint === 0 ? 0 : (point * 100 / statistics.semesterPoints.maxMonthlyPoint) ) + '%'}">
+                            <div class="number"><h4>{{ point }}</h4></div>
+                        </div>
+                        <div class="pink-2 data" ng-style="{height: statistics.semesterPoints.maxMonthlyPoint === 0 ? 0 : (point * 100 / statistics.semesterPoints.maxMonthlyPoint) + '%'}" >
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="axis" ng-style="{ width: statistics.semesterPoints.width + '%'}" ng-repeat="point in statistics.semesterPoints.monthlyPoints track by $index">
+                        <h4 class="text-center">{{ Math.floor( statistics.semesterReadings.year + (statistics.semesterReadings.startMonth - 1 + $index) / 12 ) }}.{{ (statistics.semesterPoints.startMonth - 1 + $index) % 12 + 1}}</h4>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Place holder -->
+            <div class="title row"></div>
+                        
+            <!-- reading category -->
+                        
+            <div class="col-md-12">
+                <div class="row summary-items theme-font blue">学期阅读种类</div>
+            </div>
+                        
+            <div class="col-md-12 title">
+                <div ng-if="statistics.semesterReadings.maxMonthlyVerifiedNum !== 0"><h5>本学期一共阅读了<span class="blue-text">{{ statistics.readingCategory.categoriesNum }}</span>个种类的书，其中{{ statistics.readingCategory.maxCategoryName }}类阅读了<span class="blue-text">{{ statistics.readingCategory.maxCategoryNum }}</span>本，占{{ statistics.readingCategory.maxCategoryRate }}%。</h5></div>                
+                <div ng-if="statistics.semesterReadings.maxMonthlyVerifiedNum === 0"><h5>您本学期没有读过书。</h5></div>
+            </div>
+            
+<!--            <div class="col-md-12 title" ng-style="{position: statistics.semesterReadings.maxMonthlyVerifiedNum === 0 ? 'fixed' : 'initial' }">-->
+            <div class="col-md-12 title">            
+                <canvas id="myPieChart"></canvas>
+            </div>
+                        
+            <!-- abality radar -->
+                        
+<!--
+            <div class="col-md-12">
+                <div class="row summary-items theme-font green">阅读思维能力分析</div>
+            </div>
+                        
+            <div class="col-md-12 title">
+                <div><h5>本学期一共阅读了<span class="blue-text">5</span>个种类的书，其中童话类阅读了<span class="blue-text">12</span>本，占40%。</h5></div>                
+            </div>
+            
+            <div class="col-md-12 title">
+                <canvas id="myRadarChart"></canvas>
+            </div>
+-->
+                        
+            <!-- books list -->
+
+            <div class="col-md-12">
+                <div class="row summary-items theme-font bisque">阅读书单</div>
+            </div>
+            
+            <div class="col-md-12 title">
+            <div >
+              <table class="table text-center">
+                <thead>
+                  <tr>
+                    <th>书名</th>
+                    <th>作者</th>
+                    <th>字数</th>
+                    <th>分数</th>
+                    <th>验证日期</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr ng-repeat="book in statistics.booksList.semesterVerified">
+                    <td>{{ book.bookName }}</td>
+                    <td>{{ book.author }}</td>
+                    <td>{{ book.wordCount }}</td>
+                    <td>{{ book.point }}</td>
+                    <td>{{ book.verifiedTime }}</td>
+                  </tr>
+                  <tr>
+                </tbody>
+              </table>
+            </div>
+            </div>
+                        
+            <!-- notes list -->
+
+            <div class="col-md-12">
+                <div class="row summary-items theme-font purple">阅读笔记列表</div>
+            </div>
+                
+            
+            <div class="col-md-12 title">
+            <div><h5>共发表阅读笔记<span class="purple-text">{{ statistics.notesList.count }}</span>篇，共收到<span class="purple-text">{{ statistics.notesList.commentCount }}</span>条评论。</h5></div>
+    
+            <div >
+              <table class="table text-center">
+                <thead>
+                  <tr>
+                    <th>笔记名称</th>
+                    <th>书名</th>
+                    <th>笔记字数</th>
+                    <th>评论</th>
+                    <th>发表日期</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr ng-repeat="note in statistics.notesList.notes">
+                    <td>{{ note.title }}</td>
+                    <td>{{ note.bookname }}</td>
+                    <td>{{ note.contentLenght }}</td>
+                    <td>{{ note.commentCount }}</td>
+                    <td>{{ note.creationTime }}</td>
+                  </tr>
+                  <tr>
+                </tbody>
+              </table>
+            </div>
+            </div>
+                        
+        </div>
+        
+	</div>
+    </div>
+</div>

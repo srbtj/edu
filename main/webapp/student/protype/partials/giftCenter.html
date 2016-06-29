@@ -1,0 +1,27 @@
+<div class="row readingCenter-right">
+	<div class="col-md-8 col-md-offset-2">
+		<div class="row page-body page-body-top  readingCenter-right-body container-fluid">
+
+            <div class="col-md-2 prizeTitle"><p>已兑换商品</p></div>
+
+            <div class="col-md-offset-8 col-md-2"><a href="#/redeemGift" class = "btn btn-green" type="button">去商城兑换</a></div>
+
+        <div class="row bottom-separator"></div>
+<!--            <a class = "btn btn-sm btn-green" type="button">去商城兑换</a>-->
+          <div class = "row giftRow" ng-repeat="exchanges in gifts" >
+              <div class="col-md-4">
+                  <div class="row ">
+                      <div class="col-md-4 giftImg"><img src="../static/img/giftCenter/helookettyBag.png"></div>
+                      <div class="col-md-5"><p>{{exchanges.gift.name}}</p></div>
+                  </div>
+              </div>
+
+              <div class="col-md-3"><p>兑换数量：{{exchanges.count}}</p></div>
+              <div class="col-md-3"><p>兑换时间：{{exchanges.creationTime}}</p></div>
+              <div class="col-md-2"><p>{{exchanges.status | formatDeliver}}</p></div>
+          </div>
+				<div class="bottom col-md-12 block" ng-click ="giftsLoadingMore()" style="margin-top:1px;" >{{loading}}</div>
+      </div>
+
+	</div>
+</div>

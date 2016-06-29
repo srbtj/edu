@@ -1,0 +1,70 @@
+<div class="readingCenter-right">
+	<div class="col-md-1"></div>
+	<div class="col-md-9">
+		<div class="row readingCenter-right-top"></div>
+		<div class="readingCenter-right-body">
+			<div class="thinkingTesting">
+				<div class="row tagHead">
+					我的书架->测试结果
+				</div>
+				<div class="showResult">您好，测试结果是:</div>
+				<div class="isPass">{{score}}分</div>
+				<div class="bookName">{{name}}</div>
+				<div ng-show="isVerify" class="addCoin">
+					增加财富值：{{coin}}
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					增加积分{{point}}
+				</div>
+				<div class="btn-exam">
+                <!--<a ng-show="isVerify" data-toggle="modal" class="btn btn-fill-green btn-lg">去评价</a>-->
+                <a ng-hide="isVerify" ng-click="returnCode()" class="btn btn-fill-green btn-lg">返回</a>
+                </div>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-1"></div>
+</div>
+<div class="modal fade" id="exam-evaluation-model" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="color: #2F5682">
+        <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+            <div class="modal-body">
+                
+                <!-- Row 0 -->
+                <div class="row">
+                    <div class="col-md-12">
+                        <h4 class="modal-title" id="myModalLabel">测试评价
+                        </h4>
+                    </div>
+                </div>
+                
+                <!-- Place holder -->
+                <p class="row"></p>
+                
+                <div class="row">
+                    <div class="col-md-1">评分:</div>
+                    <div class="col-md-2">
+                    <input type="number" class="form-control" ng-model="rate" min="1" max="5">
+                    </div>
+                </div>
+                <!-- Input form -->
+                <div class="row">
+                    <div class="col-md-12 input-textarea-group">
+                        <input class="form-control" placeholder="标题（必填）" ng-model="title" />
+                        <textarea class="form-control message-input" placeholder="正文（不少于20字）" ng-model="content" />
+                    </div>	
+                </div>
+          </div>
+          </div>
+                <div class="modal-footer">
+                    <div class="col-md-12">
+                        <button class="btn btn-green" ng-click="evaluate()" type="button">发表评论</button>
+                    </div>
+                </div>
+          </div>
+        </div>
+	</div>
+<script>
+	SetReadingCenterRightHeight();
+</script>

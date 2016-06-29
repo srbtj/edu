@@ -1,0 +1,86 @@
+<div class="readingCenter-right">
+	<div class="col-md-8 col-md-offset-2">
+		<div class="row readingCenter-right-top"></div>
+		<div class="row readingCenter-right-body">
+			<div class="thinkingTesting">
+				<div class="row tagHead">
+					{{title}}
+				</div>
+				<div class="title">{{bookName}}</div>
+				<div class="total">一共{{total}}题，现在是第{{current + 1}}题</div>
+				<div class="question">{{current + 1}}.{{questions.current.topic}}</div>
+				<div class="row option" ng-class="{true: 'active', false: ''}[isActiveA]" ng-click="Select(questions.current.options[0], 'A')">
+					<div class="col-md-1"><img src="../static/img/rank/Arank.png" class="img-circle"></div>
+					<div class="col-md-10 opContent">{{questions.current.options[0].content}}</div>
+				</div>
+				<div class="row option" ng-class="{true: 'active', false: ''}[isActiveB]" ng-click="Select(questions.current.options[1], 'B')">
+					<div class="col-md-1"><img src="../static/img/rank/Brank.png" class="img-circle"></div>
+					<div class="col-md-10 opContent">{{questions.current.options[1].content}}</div>
+				</div>
+				<div class="row option" ng-class="{true: 'active', false: ''}[isActiveC]" ng-click="Select(questions.current.options[2], 'C')">
+					<div class="col-md-1"><img src="../static/img/rank/Crank.png" class="img-circle"></div>
+					<div class="col-md-10 opContent">{{questions.current.options[2].content}}</div>
+				</div>
+				<div class="row option" ng-class="{true: 'active', false: ''}[isActiveD]" ng-click="Select(questions.current.options[3], 'D')">
+					<div class="col-md-1"><img src="../static/img/rank/Drank.png" class="img-circle"></div>
+					<div class="col-md-10 opContent">{{questions.current.options[3].content}}</div>
+				</div>
+				<div class="btn-next">
+					<button class="btn btn-green" ng-click="nextQuestion()" ng-hide="IsFinish">
+						下一题
+					</button>
+					<button class="btn btn-green" ng-click="FinishExam()" ng-show="IsFinish" ng-disabled="IsCilck">
+						提交
+					</button>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-1"></div>
+</div>
+
+<div class="modal fade" id="exam-evaluation-model" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="color: #2F5682">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-body">
+				
+				<!-- Row 0 -->
+				<div class="row">
+					<div class="col-md-12">
+						<h4 class="modal-title" id="myModalLabel">测试评价
+						</h4>
+					</div>
+				</div>
+				
+				<!-- Place holder -->
+				<p class="row"></p>
+				
+				<div class="row">
+					<div class="col-md-1">评分:</div>
+					<div class="col-md-2">
+						<input type="number" class="form-control" ng-model="rate" min="1" max="5">
+					</div>
+				</div>
+				<!-- Input form -->
+				<div class="row">
+					<div class="col-md-12 input-textarea-group">
+						<input class="form-control" placeholder="标题（必填）" ng-model="Evatitle" />
+						<textarea class="form-control message-input" placeholder="正文（不少于20字）" ng-model="Evacontent" />
+					</div>	
+				</div>
+			</div>
+		</div>
+		<div class="modal-footer">
+			<div class="col-md-12">
+				<button class="btn btn-green" ng-click="evaluate()" type="button">发表评论</button>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+
+
+<script>
+	SetReadingCenterRightHeight();
+	//SetOption();
+</script>

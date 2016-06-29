@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87df4b2d-734f-456a-b089-1465be74e127" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/advert.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/app.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/background.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/book.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/checks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/foot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/giftCenter/bookBag_lg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/giftCenter/helookettyBag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/index_bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/login.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/mustRead.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/mustRead.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/mustRead.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/myBookshelf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/myBookshelf/addPhoto.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/myBookshelf/note.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/myEvaluating.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/myNote.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/myNote/comment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/note.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/personalShow/coins.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/personalShow/fish.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/personalShow/level.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/personalShow/notes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/personalShow/ranking.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/personalShow/reading.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/picture.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/picture1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/quickSearch.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/rank/Arank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/rank/Brank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/rank/Crank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/rank/Drank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/read.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/readSea/fish/01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/readSea/fish/02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/readSea/fish/03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/readSea/fish/04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/readSea/fish/05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/readSea/fish/06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/readingCenter/add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/readingCenter/addPhoto.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/readingCenter/myBookshelf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/readingCenter/myEvaluating.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/readingCenter/myNote.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/readingDynamic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/readingDynamic/bronze.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/readingDynamic/first.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/readingDynamic/golden.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/readingDynamic/hotnotes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/readingDynamic/second.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/readingDynamic/silver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/readingDynamic/third.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/readstatus/read.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/readstatus/unread.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/score-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/screen.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/statisticsSummary/title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/sunnnyReading.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/img/write.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/img/head.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/img/myBookshelf/addPhoto.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/img/myNote/comment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/img/myTask.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/img/picture.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/img/readingDynamic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/img/readingDynamic/bronze.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/img/readingDynamic/first.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/img/readingDynamic/golden.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/img/readingDynamic/second.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/img/readingDynamic/silver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/img/readingDynamic/third.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/img/subject/chinese.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/img/subject/english.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/img/subject/math.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/img/subject/other.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/img/subject/science.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/img/sunnnyReading.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/img/sunnnyReading.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/upload/note/1429363159551zxc.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/upload/usericon/1429103754752myNote.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/assembler/book/BookAssembler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/assembler/region/RegionAssembler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/assembler/semester/SemesterAssembler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/common/controller/HomeController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/common/dto/FieldErrorDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/common/dto/ValidationErrorDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/comparator/BookshelfDTOComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/config/ApplicationConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/config/ApplicationContext.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/config/PersistenceContext.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/config/WebAppContext.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/BaseController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/ControllerErrorHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/book/BookController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/book/CategoryController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/book/DictionaryController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/book/ReviewController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/bookshelf/BookInShelfController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/bookshelf/BookShelfOperationController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/bookshelf/BookshelfController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/cms/AdminController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/coinhistory/CoinHistoryController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/common/FileUploadController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/common/HtmlToPDF.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/common/UploadControl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/exam/AnswerController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/exam/ArticleController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/exam/ExamController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/exam/QuestionController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/fish/FishController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/messagecenter/MessageCenterController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/note/CommentController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/note/NoteController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/organization/CampusController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/organization/ClazzController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/organization/EduGroupController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/pointhistory/PointHistoryController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/recommend/RecommendController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/region/RegionController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/region/SchoolDistrictController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/semester/SemesterController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/store/StoreController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/supplementbook/SupplementBookController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/tag/BookTagController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/tag/BooktagErrorHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/tag/TagController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/task/TaskController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/user/AnalystController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/user/TeacherClazzController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/user/UserController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/controller/util/SecurityContextUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/book/BookDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/book/BookExtraDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/book/CategoryDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/book/ReviewDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/bookshelf/BookInShelfDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/bookshelf/BookShelfOperationDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/bookshelf/BookshelfDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/bookshelf/BookshelfStatisticsDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/campus/CampusOrderDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/clazz/ClazzSumStatisticDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/common/AbstractDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/common/PageImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/common/PageResource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/AnswerDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/ArticleMapDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/CapacityAnswerDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/CapacityPaperDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/CollatExamDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/ExamDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/ObjectQuestionUpdateDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/ObjectQuestionWithName.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/ObjectiveAnswerDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/ObjectiveQuestionDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/OptionDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/PaperDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/QuestionDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/SpeedAnswerDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/SpeedDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/SpeedPaperExamDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/SpeedTestRecordDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/SubjectQuestionWithBookName.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/SubjectiveAnswerDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/SubjectivePaperDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/SubjectiveQuestionDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/VerifiedExamDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/VerifyExamPassDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/VerifyPaperDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/exam/VerifyPaperExamDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/fish/StudentFishDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/message/MessageDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/note/CommentDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/note/NoteDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/organization/CampusDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/organization/CategoryCountDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/organization/ClazzDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/organization/EduGroupDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/organization/GradeDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/recommend/RecommendDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/region/RegionDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/region/SchoolDistrictDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/semester/SemesterDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/supplementbook/SupplementBookDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/tag/BookTagDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/tag/TagStatisticsDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/user/LoginUserDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/user/OrgCondtionDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/user/UserDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/dto/user/UserExtraDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/exception/bookshelf/BookInShelfDuplicateVerifiedException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/exception/bookshelf/BookOperationNotFoundException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/exception/bookshelf/BookshelfNotFoundException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/exception/common/AuthenticationException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/exception/common/DatabaseException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/exception/common/DuplicateException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/exception/common/NotFoundException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/exception/common/TodayVerifyTimesOverException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/exception/common/UpLoadException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/exception/exam/AnswerNotFoundException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/exception/exam/HaveVerifiedBookException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/exception/exam/QuestionNotFoundExcepiton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/exception/store/InSufficientCoinsException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/exception/tag/BookTagNotFoundException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/book/Binding.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/book/Book.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/book/BookExtra.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/book/BookStatistic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/book/Category.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/book/Dictionary.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/book/DictionaryType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/book/Recommendation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/book/Review.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/book/TestPass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/bookshelf/BookInShelf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/bookshelf/BookShelfOperation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/bookshelf/Bookshelf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/bookshelf/OperationType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/coinhistory/CoinHistory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/common/AbstractEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/exam/Answer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/exam/Article.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/exam/CapacityExamHistory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/exam/CapacityQuestion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/exam/Exam.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/exam/ExamSetting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/exam/ObjectiveAnswer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/exam/ObjectiveQuestion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/exam/Option.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/exam/Question.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/exam/SpeedQuestion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/exam/SpeedTestRecord.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/exam/SubjectiveAnswer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/exam/SubjectiveQuestion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/fish/Fish.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/fish/StudentFish.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/market/Good.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/market/Item.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/market/Order.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/message/Action.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/message/Message.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/note/Comment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/note/Note.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/organization/Campus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/organization/Clazz.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/organization/ClazzCategoryCount.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/organization/ClazzCatogoryStatistic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/organization/ClazzStatistic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/organization/ClazzStatisticHistory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/organization/EduGroup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/organization/EducationSys.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/organization/Grade.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/organization/School.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/pointhistory/PointHistory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/recommend/Recommend.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/region/Region.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/region/RegionType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/region/SchoolDistrict.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/security/AuthorizationException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/security/OAuth2AuthenticationAccessToken.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/security/OAuth2AuthenticationRefreshToken.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/security/Role.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/security/VerificationToken.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/security/VerificationTokenType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/semester/Semester.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/store/ExchangeHistory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/store/Gift.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/store/GiftStatus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/store/GiftType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/supplementbook/SupplementBook.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/tag/BookTag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/tag/Tag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/tag/Type.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/task/Task.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/user/Admin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/user/Analyst.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/user/CategoryCount.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/user/Parent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/user/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/user/SystemAdmin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/user/Teacher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/user/TeacherClazz.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/user/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/user/UserCategoryStatistic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/user/UserStatistic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/model/user/UserStatisticHistory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/SemesterRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/book/BookRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/book/CategoryRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/book/DictionaryRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/book/RecommendationRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/book/ReviewRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/book/TestPassRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/book/predicates/BookPredicates.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/book/predicates/RecommendationPredicates.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/book/predicates/TestPassPredicates.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/bookshelf/BookInShelfRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/bookshelf/BookShelfOperationRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/bookshelf/BookshelfRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/coinhistory/CoinHistoryRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/exam/AnswerRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/exam/ArticleRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/exam/CapacityExamHistoryRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/exam/CapacityQuestionRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/exam/ExamRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/exam/ObjectiveAnswerRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/exam/ObjectiveQuestionRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/exam/OptionRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/exam/QuestionRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/exam/SpeedQuestionRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/exam/SpeedTestRecordRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/exam/SubjectiveAnswerRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/exam/SubjectiveQuestionRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/fish/FishRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/fish/StudentFishRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/message/ActionRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/message/MessageCenterRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/note/CommentRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/note/NoteRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/organization/CampusRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/organization/ClazzRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/organization/ClazzStatisticHistoryRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/organization/EduGroupRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/pointhistory/PointHistoryRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/recommend/RecommendRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/region/RegionRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/region/SchoolDistrictRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/security/OAuth2AccessTokenRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/security/OAuth2RefreshTokenRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/store/ExchangeHistoryRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/store/GiftRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/supplementbook/SupplementBookRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/tag/BookTagRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/tag/TagRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/task/TaskRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/task/UserStatisticRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/user/AdminRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/user/AnalystRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/user/ParentRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/user/RoleRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/user/StudentRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/user/SystemAdminRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/user/TeacherClazzRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/user/TeacherRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/user/UserRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/user/UserStatisticHistoryRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/repository/user/predicates/StudentPredicates.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/scheduler/StatisticTask.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/security/ClientDetailsServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/security/HierarchicalJsr250Voter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/security/OAuthRestEntryPoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/book/BookRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/book/BookService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/book/CategoryRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/book/CategoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/book/DictionaryRepoService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/book/DictionaryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/book/RecommendationRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/book/RecommendationService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/book/ReviewRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/book/ReviewService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/book/TestPassRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/book/TestPassService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/bookshelf/BookInShelfRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/bookshelf/BookInShelfService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/bookshelf/BookShelfOperationRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/bookshelf/BookShelfOperationService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/bookshelf/BookshelfRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/bookshelf/BookshelfService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/coinhistory/CoinHistoryRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/coinhistory/CoinHistoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/exam/AnswerRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/exam/AnswerService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/exam/ArticleRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/exam/ArticleService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/exam/ExamRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/exam/ExamService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/exam/ObjectiveAnswerRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/exam/ObjectiveAnswerService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/exam/ObjectiveQuestionRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/exam/ObjectiveQuestionService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/exam/QuestionRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/exam/QuestionService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/exam/SubjectiveAnswerRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/exam/SubjectiveAnswerService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/exam/SubjectiveQuestionRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/exam/SubjectiveQuestionService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/fish/FishRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/fish/FishService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/message/MessageCenterRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/message/MessageCenterService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/note/CommentRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/note/CommentService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/note/NoteRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/note/NoteService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/organization/CampusRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/organization/CampusService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/organization/ClazzRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/organization/ClazzService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/organization/EduGroupRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/organization/EduGroupService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/pointhistory/PointHistoryRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/pointhistory/PointHistoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/recommend/RecommendRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/recommend/RecommendService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/region/RegionRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/region/RegionService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/region/SchoolDistrictRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/region/SchoolDistrictService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/security/OAuth2RepositoryTokenStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/semester/SemesterRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/semester/SemesterService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/store/StoreRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/store/StoreService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/supplementbook/SupplementBookRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/supplementbook/SupplementBookService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/tag/BookTagRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/tag/BookTagService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/tag/TagRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/tag/TagService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/task/TaskRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/task/TaskService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/user/AnalystRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/user/AnalystService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/user/TeacherClazzRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/user/TeacherClazzService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/user/UserAuthenticationProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/user/UserRepositoryService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/user/UserService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/service/user/VerificationTokenService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/todo/controller/RestErrorHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/todo/controller/TodoController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/todo/dto/TodoDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/todo/exception/TodoNotFoundException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/todo/model/Todo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/todo/repository/TodoRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/todo/service/RepositoryTodoService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/todo/service/TodoService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/util/DateSerializer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/util/ExcelUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/util/FtpUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/util/NumberUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/com/syzton/sunread/util/UserUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/resources/authentication-managers.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/resources/client-details.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/resources/drop-tables.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/resources/endpoint-configuration.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/resources/i18n/messages.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/resources/oauth2-configuration.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/resources/security-configuration.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/resources/token-store.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/.idea/webapp.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/WEB-INF/jsp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/css/bookshelf.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/css/color.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/css/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/css/custom-ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/css/dropzone.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/css/fonts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/controller/actionCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/controller/adminCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/controller/bookCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/controller/classCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/controller/eduGroupCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/controller/giftCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/controller/indexCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/controller/mainCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/controller/objectiveQuestionCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/controller/regionCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/controller/schoolAdminCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/controller/schoolCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/controller/schoolDistrict.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/controller/schoolSuperAdminCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/controller/semesterCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/controller/studentCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/controller/subjectiveQuestionCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/controller/sysAdminCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/controller/teacherCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/controller/userCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/directives/selectBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/lib/bs-dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/lib/dropzone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/services/actionService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/services/adminService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/services/bookService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/services/campusService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/services/classService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/services/dropzoneService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/services/eduGroupService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/services/giftServices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/services/pageableService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/services/provinceService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/services/questionService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/services/semesterService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/services/studentService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/services/teacherService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/js/services/userService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/partials/action.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/partials/book.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/partials/clazz.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/partials/cmsAdmin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/partials/edugroup.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/partials/gift.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/partials/main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/partials/objectivequestion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/partials/region.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/partials/school.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/partials/schoolAdmin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/partials/schoolDistrict.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/partials/schoolSuperAdmin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/partials/selectSchool.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/partials/semester.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/partials/student.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/partials/subjectivequestion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/partials/sysAdmin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/partials/teacher.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/cms/partials/user.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/static/js/controller/indexCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/giftCenter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/giftCenterRedeemGift.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/hotNotes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/messageCenter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/othersBook.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/othersBookshelf.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/othersExam.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/othersNote.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/personalProfile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/personalShow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/readingCenter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/readingCenterAddBook.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/readingCenterAddBookAdvancedSearch.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/readingCenterAddBookPopularReading.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/readingCenterAddBookPopularRecommend.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/readingCenterAddBookQuickSearch.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/readingCenterBookDetails.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/readingCenterMultipleTesting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/readingCenterMyAnswers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/readingCenterMyBookshelf.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/readingCenterMyEvaluating.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/readingCenterMyNote.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/readingCenterOtherAnswer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/readingCenterTestResultFailed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/readingCenterTestResultSuccess.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/readingCenterTestSubjective.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/readingDynamic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/readingDynamicActions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/readingSea.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/readingTraining.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/readingTrainingStatistics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/readingTrainingTesting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/readingTrainingTraining.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/statisticsRanking.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/statisticsSummary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/protype/partials/takenoteModal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/css/bookshelf.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/css/bootstrap-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/css/color.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/css/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/css/custom-ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/css/dropzone.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/css/example.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/css/fonts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/css/giftCenter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/css/pagebody.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/css/readingTraining.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/app/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/app/error/error.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/app/error/error.events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/app/error/error.routing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/app/error/error.views.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/app/todo/todo.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/app/todo/todo.events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/app/todo/todo.i18n.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/app/todo/todo.models.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/app/todo/todo.routing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/app/todo/todo.views.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/giftCenterCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/giftCenterRedeemGiftCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/hotNotesCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/indexCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/mainCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/messageCenterCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/othersBookshelfCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/othersExamCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/othersNoteCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/othersStatCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/personalProfileCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/personalShowCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/prizeCenterCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/readingCenterAddBookAdvancedSearchCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/readingCenterAddBookCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/readingCenterAddBookPopularReadingCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/readingCenterAddBookPopularRecommendCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/readingCenterAddBookQuickSearchCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/readingCenterAddBookSearchCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/readingCenterBookDetailsCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/readingCenterMultipleTestingCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/readingCenterMyAnswersCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/readingCenterMyBookshelfCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/readingCenterMyEvaluatingCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/readingCenterMyNoteCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/readingCenterOtherAnswerCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/readingCenterTestFailedCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/readingCenterTestSubjectiveCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/readingCenterTestSuccessCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/readingDynamicActionsCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/readingDynamicCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/readingSeaCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/readingTrainingCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/statisticsRankingCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/controller/statisticsSummaryCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/lib/bs-dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/lib/tokenInjector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/actionService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/addBookService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/bookDetailService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/bookshelfService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/bookshelfView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/campusService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/classService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/coinHistoryService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/commentService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/dictionariesService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/dropzoneService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/errorServices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/examService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/fishServices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/giftServices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/hotclazzServices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/hotreaderServices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/joinShelfServices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/loadableService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/messageServices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/noteService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/noteTakeService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/noteViewService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/pageableService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/para.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/pointHistoryService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/popularSearchServices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/questionService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/reviewService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/semesterService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/taskServices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/teacherServices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/trainingService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/services/userService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/vendor/Backbone.ModelBinder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/vendor/Chart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/vendor/backbone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/vendor/backbone.marionette.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/vendor/bootstrap-collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/vendor/bootstrap-transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/vendor/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/vendor/dropzone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/vendor/handlebars-1.0.rc.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/vendor/i18next-1.5.8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/vendor/jquery-1.8.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/vendor/spin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/student/static/js/vendor/underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/hotNotes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/messageCenter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/personalProfile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/readingDynamic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/readingDynamicActions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/statistics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/statistics/campuses.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/statistics/classes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/statistics/classes/categories.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/statistics/classes/coins.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/statistics/classes/readings.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/statistics/filters.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/statistics/students.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/teachingCenter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/teachingCenterAddBook.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/teachingCenterAddBookAdvancedSearch.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/teachingCenterAddBookPopularReading.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/teachingCenterAddBookPopularRecommend.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/teachingCenterAddBookQuickSearch.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/teachingCenterAddToShelf.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/teachingCenterBookDetails.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/teachingCenterMyRecommend.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/teachingCenterMyResource.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/teachingCenterMyReward.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/teachingCenterMyRewardDispatchReward.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/prototype/partials/teachingCenterMyTask.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/css/addBook.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/css/color.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/css/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/css/custom-ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/css/dropzone.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/css/fonts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/css/pagebody.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/controller/hotNotesCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/controller/indexCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/controller/mainCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/controller/messageCenterCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/controller/myRewardCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/controller/myRewardDispatchRewardCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/controller/myTaskCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/controller/personalProfileCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/controller/readingDynamicActionsCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/controller/readingDynamicCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/controller/statisticsCampusesCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/controller/statisticsClassesCategoriesCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/controller/statisticsClassesCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/controller/statisticsCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/controller/statisticsStudentsCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/controller/teachingCenterAddBookCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/controller/teachingCenterAddToShelfCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/controller/teachingCenterBookDetailsCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/controller/teachingCenterMyRecommendCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/controller/teachingCenterMyResourceCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/lib/bs-dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/lib/checklist-model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/lib/tokenInjector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/actionService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/addBookService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/bookDetailService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/bookshelfServices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/booktagService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/campusService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/classService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/coinHistoryService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/commentService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/dictionariesService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/dropzoneService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/editableService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/eduGroupServices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/gradeServices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/hotclazzServices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/hotreaderServices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/likeBookService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/loadableService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/messageServices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/noteService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/noteViewService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/orderService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/pageableService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/popularSearchServices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/recommendServices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/regionService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/reviewService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/schoolDistrictService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/sortableService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/sumstatisticServices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/tagService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/taskServices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/teacherServices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/services/userService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/vendor/Chart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/teacher/static/js/vendor/dropzone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/webapp/upload/index.html" />
+    </list>
+    <ignored path="edu.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="edu" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="BookTagDTO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/java/com/syzton/sunread/dto/tag/BookTagDTO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pageableService.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main/webapp/student/static/js/services/pageableService.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.58605176">
+              <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="270" />
+    <option name="y" value="23" />
+    <option name="width" value="1650" />
+    <option name="height" value="1009" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="student" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="student" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="student" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="student" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="student" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="student" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="student" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="student" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87df4b2d-734f-456a-b089-1465be74e127" name="Default" comment="" />
+      <created>1467185038322</created>
+      <option name="number" value="Default" />
+      <updated>1467185038322</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="270" y="23" width="1650" height="1009" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2829957" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main/java/com/syzton/sunread/dto/tag/BookTagDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/webapp/student/static/js/services/pageableService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.58605176">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

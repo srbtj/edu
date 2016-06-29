@@ -1,0 +1,154 @@
+.txt-title
+{
+	padding: 10px;
+	font-size: 14px;
+	width: 100%;
+	border: 1px #92A5BB solid;
+	border-bottom: 0;
+}
+
+.txt-content
+{
+	padding: 10px;
+	font-size: 14px;
+	width: 100%;
+	border: 1px #92A5BB solid;
+    border-top: 1px #D5DDE6 solid;
+    height: auto;
+}
+
+.txt-content:focus
+{
+	outline: -webkit-focus-ring-color auto 0px;
+}
+
+.btn-addBook
+{
+	border: 2px #FFFFFF solid;
+    background-color: #FFAF25;
+    color: #FFFFFF;
+}
+
+.btn-addBook:hover
+{
+    background-color: #EB9B00;
+    color: #FFFFFF;
+}
+
+.btn-addBook:focus
+{
+    color: #FFFFFF;
+    background-color: #FFAF25;
+}
+
+.btn-blue
+{
+    border: 1px #6c82a0 solid;
+    background-color: #FFFFFF;
+    color: #6c82a0;
+}
+
+.btn-blue:hover
+{
+    background-color: #F0F0F0;
+    color: #6c82a0;
+}
+
+.btn-blue:focus
+{
+    color: #6c82a0;
+    background-color: #F0F0F0;
+}
+
+.btn-green
+{
+    border: 1px #B6D023 solid;
+    background-color: #FFFFFF;
+    color: #B6D023;
+}
+
+.btn-green:hover
+{
+    background-color: #F0F0F0;
+    color: #B6D023;
+}
+
+.btn-green:focus
+{
+    color: #B6D023;
+    background-color: #F0F0F0;
+}
+
+.btn-fill-green
+{
+    border: 1px #B6D023 solid;
+    background-color: #B6D023;
+    color: #FFFFFF;
+}
+
+.btn-fill-green:hover
+{
+    background-color: #c5e225;
+    color: #FFFFFF;
+}
+
+.btn-fill-green:focus
+{
+    color: #FFFFFF;
+    background-color: #c5e225;
+}
+
+.width-1{
+    width: 7%;
+    float: left;
+}
+
+.width-2{
+    width: 13%;
+    float: left;
+}
+
+.width-3{
+    width: 18%;
+    float: left;
+}
+
+.width-4{
+    width: 31%;
+    float: left;
+}
+
+.width-5{
+    width: 14%;
+    float: left;
+}
+
+.width-6{
+    width: 10%;
+    float: left;
+}
+
+.tr{
+    text-align: right;
+}
+
+img.active
+{
+    border: 3px red solid;
+    margin: -3px;
+}
+
+.btn-checked
+{
+    color: #fff;
+    background-color: #729e54;
+    border-color: #729e54;
+    width: 100px;
+}
+
+.btn-unchecked
+{
+    color: #fff;
+    background-color: #86af7b;
+    border-color: #86af7b;
+}
